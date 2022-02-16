@@ -9,5 +9,6 @@
 #### 3-Javascript
 #### 4-Bootstrap 4
 #### 5-Jquery
-#### 6-Responsive Design
+#### 6-SCSS
+#### 7-Responsive Design
 
