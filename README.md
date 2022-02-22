@@ -1,10 +1,10 @@
-# Hi there 👋
-## I'm Ahmed Farag
-### Front End Developer
+# Hi, I'm Ahmed Farag 👋 👨‍💻
 #### I have above 1 Year of experience in Front end
 
+
 ## Contact With me
-### LinkedIn[https://www.linkedin.com/in/ahmed-farag-395702199]
+### <a href="https://www.linkedin.com/in/ahmed-farag-395702199">LinkedIn</a>
+### <a href="https://www.linkedin.com/in/ahmed-farag-395702199">LinkedIn</a>
 ## My Skills 💻😍
 #### 1-Html
 #### 2-CSS
