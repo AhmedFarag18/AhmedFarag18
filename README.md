@@ -9,7 +9,7 @@ I have above 1 Year of experience in Front end, living in Beni suef, Egypt.
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
 
-<img src="design.png" alt="banner that says Ahmed Farag - Front End Developer">
+<img src="design2.png" alt="banner that says Ahmed Farag - Front End Developer">
 
 ## My Skills 💻😍
 #### 1-Html
