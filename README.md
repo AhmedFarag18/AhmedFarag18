@@ -2,7 +2,7 @@
 ##### I'm a Frontend Developer. 
 I have above 1 Year of experience in Front end, living in Beni suef, Egypt.
 
-<img src="main2.png" alt="banner that says Ahmed Farag - Front End Developer">
+<!--<img src="main2.png" alt="banner that says Ahmed Farag - Front End Developer">-->
 
 
 ## Contact With me
