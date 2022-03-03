@@ -1,9 +1,7 @@
 # Hi, I'm Ahmed Farag 👋 👨‍💻
-##### I'm a Frontend Developer. 
-I have above 1 Year of experience in Front end, living in Beni suef, Egypt.
+### Front End Developer. 
 
 <img src="Mydetails.png" alt="banner that says Ahmed Farag - Front End Developer">
-
 
 
 # My Skills 💻😍
