@@ -1,10 +1,10 @@
 <div align="center">
   
 <h1 align="center"> Hi, I'm Ahmed Farag 👋 👨‍💻</h1>
-<h2 align="center">Front End Developer. 💻</h2>
+<h2 align="center">Front End Developer</h2>
   
 <br>
-<img src="Mydetails.png" alt="banner that says Ahmed Farag - Front End Developer">
+<!--<img src="Mydetails.png" alt="banner that says Ahmed Farag - Front End Developer">-->
 <br>
 
   
