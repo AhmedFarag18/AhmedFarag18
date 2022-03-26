@@ -27,9 +27,9 @@
                 <td colspan="2" align="center"><img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-responsive-seo-and-marketing-xnimrodx-blue-xnimrodx-2.png" alt="Responsive"></td>
             </tr>
             <tr>
-                <td colspan="3" align="center">facebook</td>
-                <td colspan="3" align="center">linkedin</td>
-                <td colspan="2" align="center">mostql</td>
+                <td colspan="3" align="center">Facebook</td>
+                <td colspan="3" align="center">Linkedin</td>
+                <td colspan="2" align="center">mostaql</td>
             </tr>
             <tr>
                 <td colspan="2" align="center">
