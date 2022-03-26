@@ -27,15 +27,20 @@
                 <td colspan="2" align="center"><img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-responsive-seo-and-marketing-xnimrodx-blue-xnimrodx-2.png" alt="Responsive"></td>
             </tr>
             <tr>
-                <td colspan="4" align="center">facebook</td>
-                <td colspan="4" align="center">linkedin</td>
+                <td colspan="3" align="center">facebook</td>
+                <td colspan="3" align="center">linkedin</td>
+                <td colspan="2" align="center">mostql</td>
             </tr>
             <tr>
-                <td colspan="4" align="center">
-                  <a href="https://www.facebook.com/ahmedf.elbrazily/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+                <td colspan="2" align="center">
+                  <a href="https://www.facebook.com/ahmedf.elbrazily/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
                 </td>
-                <td colspan="4" align="center">
+                <td colspan="2" align="center">
                   <a href="https://www.linkedin.com/in/ahmed-farag-395702199"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>        
                 </td>
+                <td colspan="2" align="center">
+                  <a href="https://www.instagram.com/elbrazily2122/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>        
+                </td>
+                <td colspan="2" align="center"><a href="https://mostaql.com/u/AhmedFarag18"><img src="mostaql.png" width="50px"></a></td>
             </tr>
 </table>
