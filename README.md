@@ -5,7 +5,7 @@
                   <h2 align="center">Front End Developer 👨‍💻</h2>
               </td>
               <td  colspan="4" align="center">
-                  <img src="team-5.png" alt="banner that says Ahmed Farag - Front End Developer">
+                  <img src="team-2.png" alt="banner that says Ahmed Farag - Front End Developer">
               </td>
           </tr>    
             <tr>
