@@ -1,9 +1,8 @@
 <table align="center">
           <tr>
               <td  colspan="4" align="center">
-                  <h1 align="center"> Hi, I'm Ahmed Farag 👋</h1>
-                  <h2 align="center">Front End Developer 👨‍💻</h2>
-              </td>
+                        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=6571FF&center=true&vCenter=true&lines=Hi!+I+am+Ahmed+Farag+%F0%9F%91%8F;Front+End+Developer+%F0%9F%92%BB">
+                    </td>
               <td  colspan="4" align="center">
                   <img src="team-2.png" alt="banner that says Ahmed Farag - Front End Developer">
               </td>
