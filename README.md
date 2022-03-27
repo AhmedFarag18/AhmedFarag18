@@ -41,6 +41,6 @@
                 <td colspan="2" align="center">
                   <a href="https://www.instagram.com/elbrazily2122/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>        
                 </td>
-                <td colspan="2" align="center"><a href="https://mostaql.com/u/AhmedFarag18"><img src="mostaql.png" width="50px"></a></td>
+                <td colspan="2" align="center"><a href="https://join.skype.com/invite/HhsQpj5iEZFj"><img src="https://img.icons8.com/color/48/000000/skype--v1.png"/></a></td>
             </tr>
 </table>
