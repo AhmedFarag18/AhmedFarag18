@@ -1,46 +1,47 @@
-<table align="center">
+<table>
           <tr>
-              <td  colspan="4" align="center">
+              <td align="center">
                         <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=6571FF&center=true&vCenter=true&lines=Hi!+I+am+Ahmed+Farag+%F0%9F%91%8F;Front+End+Developer+%F0%9F%92%BB">
                     </td>
-              <td  colspan="4" align="center">
-                  <img src="team-2.png" alt="banner that says Ahmed Farag - Front End Developer">
+              <td align="center">
+                  <img src="coder.gif" alt="banner that says Ahmed Farag - Front End Developer">
               </td>
-          </tr>    
-            <tr>
-                <td align="center">HTML</td>
-                <td align="center">CSS</td>
-                <td align="center">JAVASCRIPT</td>
-                <td align="center">Bootstrap</td>
-                <td align="center">jQuery</td>
-                <td align="center">Sass</td>
-                <td colspan="2" align="center">Responsive Design</td>
-            </tr>
-            <tr>
-                <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"></td>
-                <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"></td>
-                <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JAVASCRIPT"></td>
-                <td align="center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"></td>
-                <td align="center"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="jQuery"></td>
-                <td align="center"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="Sass"></td>
-                <td colspan="2" align="center"><img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-responsive-seo-and-marketing-xnimrodx-blue-xnimrodx-2.png" alt="Responsive"></td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">Facebook</td>
-                <td colspan="2" align="center">Linkedin</td>
-                <td colspan="2" align="center">Instagram</td>
-                <td colspan="2" align="center">Skype</td>
-            </tr>
-            <tr>
-                <td colspan="2" align="center">
-                  <a href="https://www.facebook.com/ahmedf.elbrazily/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-                </td>
-                <td colspan="2" align="center">
-                  <a href="https://www.linkedin.com/in/ahmed-farag-395702199"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>        
-                </td>
-                <td colspan="2" align="center">
-                  <a href="https://www.instagram.com/elbrazily2122/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>        
-                </td>
-                <td colspan="2" align="center"><a href="https://join.skype.com/invite/HhsQpj5iEZFj"><img src="https://img.icons8.com/color/48/000000/skype--v1.png"/></a></td>
-            </tr>
+          </tr>
 </table>
+
+<br>
+
+### About Me 📌
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+- 🎓I studing computer science 3th level at FCAI - Bani Swief
+- 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6 etc.
+- 💪🏼 Future Goals: Learn more technologies Like React - Never stop creating new ideas.
+- :speech_balloon: Ask me about Front-End, or literally anything!
+- ⚡ Fun fact: I love to play Playstation 🎮.
+- :mailbox: You can reach me with the links below
+
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-farag-395702199)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01285513858&text=Hi!)
+[![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/ElBrazily18)
+[![Facebook](https://img.shields.io/badge/-Facebook-036be4?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahmedf.elbrazily/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfaragfdfdfd@gmail.com)
+[![Skype](https://img.shields.io/badge/-Skype-036be4?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/HhsQpj5iEZFj)
+
+<br>
+
+### Languages and Tools 🛠
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
+![Jquery](https://img.shields.io/badge/-Jquery-%231572B6?style=for-the-badge&logo=jquery&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
