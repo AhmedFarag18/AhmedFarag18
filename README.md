@@ -23,7 +23,6 @@
 - :mailbox: You can reach me with the links below
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-farag-395702199)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01285513858&text=Hi!)
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/ElBrazily18)
 [![Facebook](https://img.shields.io/badge/-Facebook-036be4?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahmedf.elbrazily/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfaragfdfdfd@gmail.com)
