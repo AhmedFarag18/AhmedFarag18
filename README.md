@@ -38,6 +38,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-%231572B6?style=for-the-badge&logo=jquery&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
