@@ -16,8 +16,8 @@
 <!--<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 - 🎓I studing computer science 4th level at FCAI - Bani Swief
-- 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6 etc.
-- 💪🏼 Future Goals: Learn more technologies Like React - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6, React etc.
+- 💪🏼 Future Goals: Learn more technologies Like MongoDB - Never stop creating new ideas.
 - :speech_balloon: Ask me about Front-End, or literally anything!
 - ⚡ Fun fact: I love to play Playstation 🎮.
 - :mailbox: You can reach me with the links below
