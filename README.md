@@ -16,8 +16,8 @@
 <!--<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 - 🎓I Graduated from computer science FCAI - Bani Swief
-- 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6, React etc.
-- 💪🏼 Future Goals: Learn more technologies Like MongoDB - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6, React, redux-toolkit, Tailwind CSS etc.
+- 💪🏼 Future Goals: Learn more technologies Like Nodejs and MongoDB - Never stop creating new ideas.
 - :speech_balloon: Ask me about Front-End, or literally anything!
 - ⚡ Fun fact: I love to play Playstation 🎮.
 - :mailbox: You can reach me with the links below
@@ -39,6 +39,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-%231572B6?style=for-the-badge&logo=jquery&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
+![Tailwind Css](https://img.shields.io/badge/-Tailwindcss-0b1120?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
