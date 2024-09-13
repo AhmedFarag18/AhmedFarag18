@@ -17,16 +17,16 @@
 
 - 🎓I Graduated from computer science FCAI - Bani Swief
 - 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6, React, redux-toolkit, Tailwind CSS etc.
-- 💪🏼 Future Goals: Learn more technologies Like Nodejs and MongoDB - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies Like Nextjs and Typescript - Never stop creating new ideas.
 - :speech_balloon: Ask me about Front-End, or literally anything!
-- ⚡ Fun fact: I love to play Playstation 🎮.
+- ⚡ Fun fact: I love to Design 🎨.
 - :mailbox: You can reach me with the links below
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-farag-395702199)
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/ElBrazily18)
 [![Facebook](https://img.shields.io/badge/-Facebook-036be4?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahmedf.elbrazily/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfaragfdfdfd@gmail.com)
-[![Skype](https://img.shields.io/badge/-Skype-036be4?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/HhsQpj5iEZFj)
+<!--[![Skype](https://img.shields.io/badge/-Skype-036be4?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/HhsQpj5iEZFj)-->
 
 <br>
 
