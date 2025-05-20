@@ -1,53 +1,111 @@
+<!-- Banner & Greeting -->
+<h1 align="center">Hi, I'm Ahmed Farag 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ED760&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;React+%7C+HTML+%7C+CSS+Lover;Building+Awesome+UIs" alt="Typing SVG" />
+</p>
+
+<!-- Socials & Portfolio -->
+<p align="center">
+  <a href="https://ahmedfarag18.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22223b?style=for-the-badge&logo=About.me&logoColor=1ED760" />
+  </a>
+  <a href="mailto:ahmedfarag1810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedfarag1810/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- About Me -->
+## 👨‍💻 About Me
+
+- 🧑‍💻 Frontend developer passionate about building interactive, accessible, and beautiful web apps.
+- 🚀 Always learning new technologies and frameworks, focused on JavaScript and React.
+- 🛠️ I love solving real-world problems with code and collaborating on open-source projects.
+- ✨ Check out my portfolio at [ahmedfarag18.github.io/portfolio](https://ahmedfarag18.github.io/portfolio)
+
+---
+
+<!-- Skills -->
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,tailwind,vite,redux,git,github,figma,vercel" />
+</p>
+
+---
+
+<!-- Featured Projects -->
+## 🌟 Featured Projects
+
 <table>
-          <tr>
-              <td align="center">
-                        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=6571FF&center=true&vCenter=true&lines=Hi!+I+am+Ahmed+Farag+%F0%9F%91%8F;Front+End+Developer+%F0%9F%92%BB">
-                    </td>
-              <td align="center">
-                  <img src="coder.gif" alt="banner that says Ahmed Farag - Front End Developer">
-              </td>
-          </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AhmedFarag18/react-todo-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedFarag18&repo=react-todo-app&theme=radical" />
+        <br />
+        <strong>React ToDo App</strong>
+      </a>
+      <br />
+      <a href="https://react-todo-app-pink-three.vercel.app" target="_blank">Live Demo 🚀</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedFarag18/e-shop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedFarag18&repo=e-shop&theme=radical" />
+        <br />
+        <strong>E-Commerce Shop</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AhmedFarag18/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedFarag18&repo=portfolio&theme=radical" />
+        <br />
+        <strong>Portfolio Website</strong>
+      </a>
+      <br />
+      <a href="https://ahmedfarag18.github.io/portfolio/" target="_blank">Live Demo 🚀</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedFarag18/nike-landing-page">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedFarag18&repo=nike-landing-page&theme=radical" />
+        <br />
+        <strong>Nike Landing Page</strong>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<br>
+> 🔎 See all my projects on my [GitHub Repositories](https://github.com/AhmedFarag18?tab=repositories)
 
-### About Me 📌
+---
 
-<!--<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-- 🎓I Graduated from computer science FCAI - Bani Swief
-- 👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, ES6, React, redux-toolkit, Tailwind CSS etc.
-- 💪🏼 Future Goals: Learn more technologies Like Nextjs and Typescript - Never stop creating new ideas.
-- :speech_balloon: Ask me about Front-End, or literally anything!
-- ⚡ Fun fact: I love to Design 🎨.
-- :mailbox: You can reach me with the links below
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFarag18&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFarag18&theme=radical" alt="Streak Stats" width="45%" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-farag-395702199)
-[![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/ElBrazily18)
-[![Facebook](https://img.shields.io/badge/-Facebook-036be4?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahmedf.elbrazily/)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfaragfdfdfd@gmail.com)
-<!--[![Skype](https://img.shields.io/badge/-Skype-036be4?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/HhsQpj5iEZFj)-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedFarag18&theme=radical" alt="Activity Graph" />
+</p>
 
-<br>
+---
 
-### Languages and Tools 🛠
+<!-- Fun & Footer -->
+## 💡 Fun Fact
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-%231572B6?style=for-the-badge&logo=jquery&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
-![Tailwind Css](https://img.shields.io/badge/-Tailwindcss-0b1120?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+- 💬 Ask me about **frontend, React, design systems, or anything tech!**
+- 🎯 Always striving to deliver pixel-perfect and scalable user experiences.
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+---
 
-<br>
-
-### Problem Solving
-![codewars](https://www.codewars.com/users/AhmedFarag18/badges/large)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedFarag18&style=flat-square&color=1ED760" alt="Profile Views" />
+</p>
