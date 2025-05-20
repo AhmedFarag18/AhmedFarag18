@@ -9,10 +9,10 @@
   <a href="https://ahmedfarag18.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22223b?style=for-the-badge&logo=About.me&logoColor=1ED760" />
   </a>
-  <a href="mailto:ahmedfarag1810@gmail.com">
+  <a href="mailto:ahmedfarag@contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmedfarag1810/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedfarag18/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -90,10 +90,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedFarag18&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFarag18&theme=radical" alt="Streak Stats" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedFarag18&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
