@@ -9,7 +9,7 @@
   <a href="https://ahmedfarag18.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22223b?style=for-the-badge&logo=About.me&logoColor=1ED760" />
   </a>
-  <a href="mailto:ahmedfarag@contact@gmail.com">
+  <a href="mailto:ahmed.farag.thabet@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmedfarag18/" target="_blank">
